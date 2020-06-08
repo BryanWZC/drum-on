@@ -9,6 +9,5 @@ React. But honestly, HTML, CSS and JS are enough to handle this app...
 &nbsp;
 &nbsp;
 ## User Guide
-&nbsp;
 1. Download the packages
 1. `npm start`
